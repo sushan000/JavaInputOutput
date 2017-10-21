@@ -1,0 +1,3 @@
+1|dwane|johnson|20|10000|
+2|pamela|anderson|35|10906|
+3|safsadf|wer|asf|1er
